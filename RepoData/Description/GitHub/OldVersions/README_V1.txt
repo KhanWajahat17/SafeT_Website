@@ -1,0 +1,1 @@
+🇹🌐️ The official source repository for the website of the SafeT project, a special plugin for terminals with 3 layers of input safety, designed to make the Linux terminal safer and more open to public users on your device. 
